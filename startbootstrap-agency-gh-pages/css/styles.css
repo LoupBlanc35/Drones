@@ -104,6 +104,8 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
+
 hr {
   margin: 1rem 0;
   color: inherit;
@@ -10952,7 +10954,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/acceuil.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
