@@ -8128,6 +8128,11 @@ textarea.form-control-lg {
   color: #6c757d !important;
 }
 
+.text-muted_bis {
+  --bs-text-opacity: 1;
+  color: #f39c12 !important;
+}
+
 .text-black-50 {
   --bs-text-opacity: 1;
   color: rgba(0, 0, 0, 0.5) !important;
