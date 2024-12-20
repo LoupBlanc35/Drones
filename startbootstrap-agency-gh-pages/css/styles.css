@@ -112,8 +112,8 @@ table {
 
 th, td {
   border: none; /* Pas de bordure autour des cellules */
-  padding: 0.5em; /* Espace intérieur */
-  text-align: center; /* Centrer le texte */
+  padding: 1em; /* Espace intérieur */
+  text-align: left; /* Centrer le texte */
 }
 
 th {
